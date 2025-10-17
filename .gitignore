@@ -1,0 +1,26 @@
+#  write a typical gitignore file
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd   
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE specific files
+.vscode/
+.idea/      
+
+# Ignore log files
+logs/       
+*.log
+
+# Ignore system files           
+.DS_Store
+
+
