@@ -1,6 +1,6 @@
 # Narrowing Action Choices with AI Improves Human Sequential Decisions
 
-This repository contains the code and data for the paper Narrowing Action Choices with AI Improves Human Sequential Decisions.
+This repository contains the code and data for the paper [Narrowing Action Choices with AI Improves Human Sequential Decisions]().
 
 ## Dependencies
 
