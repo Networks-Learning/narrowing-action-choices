@@ -5,7 +5,7 @@ The human subject study data are in `study_data.csv`. The data include the follo
 * **study_id (str)**:  identifier of the prolific study.
 * **session_id (str)**: study session identifier.
 * **trial_batch_id (int)**: number of the batch of the game instances assigned to a participant.
-* **gameNum (int)**: number the game instance.
+* **gameNum (int)**: a number for the game instance (not unique).
 * **mapId (int)**: identifier of the forest map, takes values in {0, 1, .., 9}.
 * **initLocId (int)**: identifier of the fire spread at the beginning of the game, takes values in {0,1,2,3}.
 * **seed (int)**: the random seed controlling the fire spread dynamics and noise value for the action sets.
