@@ -1,6 +1,6 @@
 # Narrowing Action Choices with AI Improves Human Sequential Decisions
 
-This repository contains the code and data for the paper [Narrowing Action Choices with AI Improves Human Sequential Decisions]().
+This repository contains the code and data for the paper [Narrowing Action Choices with AI Improves Human Sequential Decisions](https://arxiv.org/abs/2510.16097).
 
 ## Dependencies
 
@@ -67,7 +67,7 @@ If you use parts of the code in this repository for your own research, please co
 @article{straitouri2025narrowing,
         title={Narrowing Action Choices with AI Improves Human Sequential Decisions},
         author={Straitouri, Eleni and Tsirtsis, Stratis and Velasco, Ander Artola and Gomez-Rodriguez, Manuel},
-        journal={arXiv preprint arXiv:XX},
+        journal={arXiv preprint arXiv:2510.16097},
         year={2025}
 }
 ```
